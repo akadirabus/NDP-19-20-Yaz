@@ -1,0 +1,45 @@
+C:\Users\akadi\source\repos\NDPProject\NDPProject\bin\Debug\NDPProject.exe.config
+C:\Users\akadi\source\repos\NDPProject\NDPProject\bin\Debug\NDPProject.exe
+C:\Users\akadi\source\repos\NDPProject\NDPProject\bin\Debug\NDPProject.pdb
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.csprojAssemblyReference.cache
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.Form1.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.Properties.Resources.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.csproj.GenerateResource.cache
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.csproj.CoreCompileInputs.cache
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.exe
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.pdb
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.StartPage.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.ScoreTable.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.Level2.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.Level3.resources
+C:\Users\akadi\source\repos\NDPProject\NDPProject\obj\Debug\NDPProject.PlaybackLastGame.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\bin\Debug\NDPProject.exe.config
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\bin\Debug\NDPProject.exe
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\bin\Debug\NDPProject.pdb
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.csprojAssemblyReference.cache
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.Form1.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.Level2.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.Level3.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.PlaybackLastGame.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.Properties.Resources.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.ScoreTable.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.StartPage.resources
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.exe
+C:\Users\akadi\Desktop\CV\Yeni klasör (2)\NDPProject\obj\Debug\NDPProject.pdb
+C:\Users\akadi\Desktop\NDP\NDPProject\bin\Debug\NDPProject.exe.config
+C:\Users\akadi\Desktop\NDP\NDPProject\bin\Debug\NDPProject.exe
+C:\Users\akadi\Desktop\NDP\NDPProject\bin\Debug\NDPProject.pdb
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.csprojAssemblyReference.cache
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.Form1.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.Level2.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.Level3.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.PlaybackLastGame.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.Properties.Resources.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.ScoreTable.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.StartPage.resources
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.csproj.GenerateResource.cache
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.csproj.CoreCompileInputs.cache
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.exe
+C:\Users\akadi\Desktop\NDP\NDPProject\obj\Debug\NDPProject.pdb
